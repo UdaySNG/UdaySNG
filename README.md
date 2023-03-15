@@ -61,7 +61,7 @@ I am a 18 year old software developer studying towards Software Engineering, i e
 <details>
  <summary><h3>👨‍💻 Uday's Coding Journey </h3></summary>
   I started coding in 2021 through school i took the course (Software Development) and i am still studying there with 2 years to go, i decided to make my own custom profile to prepare myself for the work life and as an freelancer, since a portofolio is a must for programmers i decided to make a linkedin,github,payhip and youtube so i can reach people through these platforms and basically make connections, i am studying Frontend and backend, and enjoy working as an frontend developer a lot since it also uses designing which i also love, i also edit video's with Premier pro and After effects, Making websites is very complicated if you don't have a design, so i also learned how to use Adobe XD, i will update my whole summary after any big changes in my life.
-
+   <br>
 [website]: (In progress)
 [LinkedIn]: https://www.linkedin.com/in/uday-singh-8a5093252/
 
