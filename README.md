@@ -12,9 +12,7 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCGvoGUvibKZF1sl2h9XqgJA">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/channel/UCGvoGUvibKZF1sl2h9XqgJA">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  
+
   <a href="https://github.com/UdaySNG?tab=stars">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   
