@@ -1,15 +1,19 @@
 ### Hi there 👋
 
+
+
+# Uday Singh
+
+**`Digital Craftsman (Developer/Editor/Designer/Creator)`**
+
+I am a 18 year old software developer studying towards Software Engineering, i enjoy coding in the Frontend direction but i want to do both to pursue my job as an full-stack developer and eventually become an Software Engineer, my hobbies are Playing football ⚽️ , a bit of gaming and designing, i am also trying to draw with detail.
+
 - 🔭 I’m currently working on School Projects 📚
 - 🌱 I’m currently learning Javascript,PHP and MySQL
 - 📫 How to reach me: Linkedin
 - ⚡ Fun fact: I love football ⚽️ 
-
-# 🏄‍♂️ Forrest Knight
-
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
-
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+- 🌟 Dream Job: Software Engineer, business 
+- 🏎️ Dream Car: Mercedes c63s coupe
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
