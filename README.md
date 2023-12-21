@@ -6,7 +6,7 @@
 
 **`Digital Craftsman (Developer/Editor/Designer/Creator)`**
 
-I am a 18 year old software developer studying towards Software Engineering, i enjoy coding in the Frontend direction but i want to do both to pursue my job as an full-stack developer and eventually become an Software Engineer, my hobbies are Playing football ⚽️ , a bit of gaming and designing, i am also trying to draw with detail.
+I am a 19 year old software developer studying towards Software Engineering, i enjoy coding in the Frontend direction but i want to do both to pursue my job as an full-stack developer and eventually become an Software Engineer, my hobbies are Playing football ⚽️ , a bit of gaming and designing, i am also trying to draw with detail.
 
 - 🔭 I’m currently working on School Projects 📚
 - 🌱 I’m currently learning Javascript,PHP and MySQL
